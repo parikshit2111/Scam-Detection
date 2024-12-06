@@ -1,7 +1,7 @@
 # About Project:
 This is a Scam Detection Project which detects if it is a scam call based on the conversation
 using machine learning techniques
-
+make sure ffmpeg is installed
 I made this project in a hackathon "PU CODE HACKATHON"
 
 
